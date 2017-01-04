@@ -1,5 +1,5 @@
 @runthis
-Feature: Data table
+Feature: Data table unsuccessful login
 
   Verify that the user login is unsuccessful after passing incorrect inputs.
 
