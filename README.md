@@ -4,4 +4,4 @@ Example includes dependency injection for single instance of firefox web browser
 
 Example pom with all dependencies.
 
-Project will be enhanced to include tests using cucumber funtionality over the coming months
+Project will be enhanced to include tests using cucumber functionality over the coming months
